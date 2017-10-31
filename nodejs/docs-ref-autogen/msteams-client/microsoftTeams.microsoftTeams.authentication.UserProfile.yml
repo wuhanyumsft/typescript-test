@@ -1,23 +1,37 @@
 ### YamlMime:UniversalReference
 items:
-  - uid: msteams-client.microsoftTeams.UserProfile
+  - uid: msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile
     name: UserProfile
     fullName: UserProfile
     children:
-      - msteams-client.microsoftTeams.UserProfile.amr
-      - msteams-client.microsoftTeams.UserProfile.aud
-      - msteams-client.microsoftTeams.UserProfile.exp
-      - msteams-client.microsoftTeams.UserProfile.family_name
-      - msteams-client.microsoftTeams.UserProfile.given_name
-      - msteams-client.microsoftTeams.UserProfile.iat
-      - msteams-client.microsoftTeams.UserProfile.iss
-      - msteams-client.microsoftTeams.UserProfile.nbf
-      - msteams-client.microsoftTeams.UserProfile.oid
-      - msteams-client.microsoftTeams.UserProfile.sub
-      - msteams-client.microsoftTeams.UserProfile.tid
-      - msteams-client.microsoftTeams.UserProfile.unique_name
-      - msteams-client.microsoftTeams.UserProfile.upn
-      - msteams-client.microsoftTeams.UserProfile.ver
+      - >-
+        msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.amr
+      - >-
+        msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.aud
+      - >-
+        msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.exp
+      - >-
+        msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.family_name
+      - >-
+        msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.given_name
+      - >-
+        msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.iat
+      - >-
+        msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.iss
+      - >-
+        msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.nbf
+      - >-
+        msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.oid
+      - >-
+        msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.sub
+      - >-
+        msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.tid
+      - >-
+        msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.unique_name
+      - >-
+        msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.upn
+      - >-
+        msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.ver
     langs:
       - typeScript
     type: interface
@@ -30,7 +44,9 @@ items:
         repo: 'https://github.com/OfficeDev/microsoft-teams-library-js.git'
         branch: prakash-docHide
     package: msteams-client
-  - uid: msteams-client.microsoftTeams.UserProfile.amr
+    module: microsoftTeams.authentication
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.amr
     name: amr
     fullName: amr
     children: []
@@ -43,7 +59,9 @@ items:
       return:
         type:
           - 'string[]'
-  - uid: msteams-client.microsoftTeams.UserProfile.aud
+    module: microsoftTeams.authentication
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.aud
     name: aud
     fullName: aud
     children: []
@@ -60,7 +78,9 @@ items:
       return:
         type:
           - string
-  - uid: msteams-client.microsoftTeams.UserProfile.exp
+    module: microsoftTeams.authentication
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.exp
     name: exp
     fullName: exp
     children: []
@@ -83,7 +103,9 @@ items:
       return:
         type:
           - number
-  - uid: msteams-client.microsoftTeams.UserProfile.family_name
+    module: microsoftTeams.authentication
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.family_name
     name: family_name
     fullName: family_name
     children: []
@@ -98,7 +120,9 @@ items:
       return:
         type:
           - string
-  - uid: msteams-client.microsoftTeams.UserProfile.given_name
+    module: microsoftTeams.authentication
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.given_name
     name: given_name
     fullName: given_name
     children: []
@@ -113,7 +137,9 @@ items:
       return:
         type:
           - string
-  - uid: msteams-client.microsoftTeams.UserProfile.iat
+    module: microsoftTeams.authentication
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.iat
     name: iat
     fullName: iat
     children: []
@@ -128,7 +154,9 @@ items:
       return:
         type:
           - number
-  - uid: msteams-client.microsoftTeams.UserProfile.iss
+    module: microsoftTeams.authentication
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.iss
     name: iss
     fullName: iss
     children: []
@@ -149,7 +177,9 @@ items:
       return:
         type:
           - string
-  - uid: msteams-client.microsoftTeams.UserProfile.nbf
+    module: microsoftTeams.authentication
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.nbf
     name: nbf
     fullName: nbf
     children: []
@@ -162,7 +192,9 @@ items:
       return:
         type:
           - number
-  - uid: msteams-client.microsoftTeams.UserProfile.oid
+    module: microsoftTeams.authentication
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.oid
     name: oid
     fullName: oid
     children: []
@@ -179,7 +211,9 @@ items:
       return:
         type:
           - string
-  - uid: msteams-client.microsoftTeams.UserProfile.sub
+    module: microsoftTeams.authentication
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.sub
     name: sub
     fullName: sub
     children: []
@@ -202,7 +236,9 @@ items:
       return:
         type:
           - string
-  - uid: msteams-client.microsoftTeams.UserProfile.tid
+    module: microsoftTeams.authentication
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.tid
     name: tid
     fullName: tid
     children: []
@@ -222,7 +258,9 @@ items:
       return:
         type:
           - string
-  - uid: msteams-client.microsoftTeams.UserProfile.unique_name
+    module: microsoftTeams.authentication
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.unique_name
     name: unique_name
     fullName: unique_name
     children: []
@@ -240,7 +278,9 @@ items:
       return:
         type:
           - string
-  - uid: msteams-client.microsoftTeams.UserProfile.upn
+    module: microsoftTeams.authentication
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.upn
     name: upn
     fullName: upn
     children: []
@@ -253,7 +293,9 @@ items:
       return:
         type:
           - string
-  - uid: msteams-client.microsoftTeams.UserProfile.ver
+    module: microsoftTeams.authentication
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.UserProfile.ver
     name: ver
     fullName: ver
     children: []
@@ -266,3 +308,4 @@ items:
       return:
         type:
           - string
+    module: microsoftTeams.authentication

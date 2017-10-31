@@ -1,12 +1,16 @@
 ### YamlMime:UniversalReference
 items:
-  - uid: msteams-client.microsoftTeams.AuthTokenRequest
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.AuthTokenRequest
     name: AuthTokenRequest
     fullName: AuthTokenRequest
     children:
-      - msteams-client.microsoftTeams.AuthTokenRequest.failureCallback
-      - msteams-client.microsoftTeams.AuthTokenRequest.resources
-      - msteams-client.microsoftTeams.AuthTokenRequest.successCallback
+      - >-
+        msteams-client.microsoftTeams.microsoftTeams.authentication.AuthTokenRequest.failureCallback
+      - >-
+        msteams-client.microsoftTeams.microsoftTeams.authentication.AuthTokenRequest.resources
+      - >-
+        msteams-client.microsoftTeams.microsoftTeams.authentication.AuthTokenRequest.successCallback
     langs:
       - typeScript
     type: interface
@@ -19,7 +23,9 @@ items:
         repo: 'https://github.com/OfficeDev/microsoft-teams-library-js.git'
         branch: prakash-docHide
     package: msteams-client
-  - uid: msteams-client.microsoftTeams.AuthTokenRequest.failureCallback
+    module: microsoftTeams.authentication
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.AuthTokenRequest.failureCallback
     name: failureCallback
     fullName: failureCallback
     children: []
@@ -34,7 +40,9 @@ items:
       return:
         type:
           - '(reason: string) => void'
-  - uid: msteams-client.microsoftTeams.AuthTokenRequest.resources
+    module: microsoftTeams.authentication
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.AuthTokenRequest.resources
     name: resources
     fullName: resources
     children: []
@@ -49,7 +57,9 @@ items:
       return:
         type:
           - 'string[]'
-  - uid: msteams-client.microsoftTeams.AuthTokenRequest.successCallback
+    module: microsoftTeams.authentication
+  - uid: >-
+      msteams-client.microsoftTeams.microsoftTeams.authentication.AuthTokenRequest.successCallback
     name: successCallback
     fullName: successCallback
     children: []
@@ -64,3 +74,4 @@ items:
       return:
         type:
           - '(token: string) => void'
+    module: microsoftTeams.authentication

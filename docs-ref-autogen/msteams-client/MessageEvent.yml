@@ -24,7 +24,7 @@ items:
     langs:
       - typeScript
     type: property
-    summary: ''
+    summary: '123'
     syntax:
       content: MessageEvent originalEvent
       return:

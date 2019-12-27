@@ -1,207 +1,209 @@
-- uid: azure-arm-iothub
-  name: azure-arm-iothub
+- uid: azure-arm-iothub - v2
+  name: azure-arm-iothub - v2
   items:
-    - uid: azure-arm-iothub.CertificateBodyDescription
+    - uid: azure-arm-iothub - v2.1.0.CertificateBodyDescription
       name: CertificateBodyDescription
       items: []
-    - uid: azure-arm-iothub.CertificateDescription
+    - uid: azure-arm-iothub - v2.1.0.CertificateDescription
       name: CertificateDescription
       items: []
-    - uid: azure-arm-iothub.CertificateListDescription
+    - uid: azure-arm-iothub - v2.1.0.CertificateListDescription
       name: CertificateListDescription
       items: []
-    - uid: azure-arm-iothub.CertificateProperties
+    - uid: azure-arm-iothub - v2.1.0.CertificateProperties
       name: CertificateProperties
       items: []
-    - uid: azure-arm-iothub.CertificatePropertiesWithNonce
+    - uid: azure-arm-iothub - v2.1.0.CertificatePropertiesWithNonce
       name: CertificatePropertiesWithNonce
       items: []
-    - uid: azure-arm-iothub.Certificates
+    - uid: azure-arm-iothub - v2.1.0.Certificates
       name: Certificates
       items: []
-    - uid: azure-arm-iothub.CertificateVerificationDescription
+    - uid: azure-arm-iothub - v2.1.0.CertificateVerificationDescription
       name: CertificateVerificationDescription
       items: []
-    - uid: azure-arm-iothub.CertificateWithNonceDescription
+    - uid: azure-arm-iothub - v2.1.0.CertificateWithNonceDescription
       name: CertificateWithNonceDescription
       items: []
-    - uid: azure-arm-iothub.CloudToDeviceProperties
+    - uid: azure-arm-iothub - v2.1.0.CloudToDeviceProperties
       name: CloudToDeviceProperties
       items: []
-    - uid: azure-arm-iothub.EndpointHealthData
+    - uid: azure-arm-iothub - v2.1.0.EndpointHealthData
       name: EndpointHealthData
       items: []
-    - uid: azure-arm-iothub.EndpointHealthDataListResult
+    - uid: azure-arm-iothub - v2.1.0.EndpointHealthDataListResult
       name: EndpointHealthDataListResult
       items: []
-    - uid: azure-arm-iothub.ErrorDetails
+    - uid: azure-arm-iothub - v2.1.0.ErrorDetails
       name: ErrorDetails
       items: []
-    - uid: azure-arm-iothub.EventHubConsumerGroupInfo
+    - uid: azure-arm-iothub - v2.1.0.EventHubConsumerGroupInfo
       name: EventHubConsumerGroupInfo
       items: []
-    - uid: azure-arm-iothub.EventHubConsumerGroupsListResult
+    - uid: azure-arm-iothub - v2.1.0.EventHubConsumerGroupsListResult
       name: EventHubConsumerGroupsListResult
       items: []
-    - uid: azure-arm-iothub.EventHubProperties
+    - uid: azure-arm-iothub - v2.1.0.EventHubProperties
       name: EventHubProperties
       items: []
-    - uid: azure-arm-iothub.ExportDevicesRequest
+    - uid: azure-arm-iothub - v2.1.0.ExportDevicesRequest
       name: ExportDevicesRequest
       items: []
-    - uid: azure-arm-iothub.FallbackRouteProperties
+    - uid: azure-arm-iothub - v2.1.0.FallbackRouteProperties
       name: FallbackRouteProperties
       items: []
-    - uid: azure-arm-iothub.FeedbackProperties
+    - uid: azure-arm-iothub - v2.1.0.FeedbackProperties
       name: FeedbackProperties
       items: []
-    - uid: azure-arm-iothub.ImportDevicesRequest
+    - uid: azure-arm-iothub - v2.1.0.ImportDevicesRequest
       name: ImportDevicesRequest
       items: []
-    - uid: azure-arm-iothub.IotHubCapacity
+    - uid: azure-arm-iothub - v2.1.0.IotHubCapacity
       name: IotHubCapacity
       items: []
-    - uid: azure-arm-iothub.IotHubClient
+    - uid: azure-arm-iothub - v2.1.0.IotHubClient
       name: IotHubClient
       items: []
-    - uid: azure-arm-iothub.IotHubDescription
+    - uid: azure-arm-iothub - v2.1.0.IotHubDescription
       name: IotHubDescription
       items: []
-    - uid: azure-arm-iothub.IotHubDescriptionListResult
+    - uid: azure-arm-iothub - v2.1.0.IotHubDescriptionListResult
       name: IotHubDescriptionListResult
       items: []
-    - uid: azure-arm-iothub.IotHubNameAvailabilityInfo
+    - uid: azure-arm-iothub - v2.1.0.IotHubNameAvailabilityInfo
       name: IotHubNameAvailabilityInfo
       items: []
-    - uid: azure-arm-iothub.IotHubProperties
+    - uid: azure-arm-iothub - v2.1.0.IotHubProperties
       name: IotHubProperties
       items: []
-    - uid: azure-arm-iothub.IotHubQuotaMetricInfo
+    - uid: azure-arm-iothub - v2.1.0.IotHubQuotaMetricInfo
       name: IotHubQuotaMetricInfo
       items: []
-    - uid: azure-arm-iothub.IotHubQuotaMetricInfoListResult
+    - uid: azure-arm-iothub - v2.1.0.IotHubQuotaMetricInfoListResult
       name: IotHubQuotaMetricInfoListResult
       items: []
-    - uid: azure-arm-iothub.IotHubResource
+    - uid: azure-arm-iothub - v2.1.0.IotHubResource
       name: IotHubResource
       items: []
-    - uid: azure-arm-iothub.IotHubSkuDescription
+    - uid: azure-arm-iothub - v2.1.0.IotHubSkuDescription
       name: IotHubSkuDescription
       items: []
-    - uid: azure-arm-iothub.IotHubSkuDescriptionListResult
+    - uid: azure-arm-iothub - v2.1.0.IotHubSkuDescriptionListResult
       name: IotHubSkuDescriptionListResult
       items: []
-    - uid: azure-arm-iothub.IotHubSkuInfo
+    - uid: azure-arm-iothub - v2.1.0.IotHubSkuInfo
       name: IotHubSkuInfo
       items: []
-    - uid: azure-arm-iothub.IpFilterRule
+    - uid: azure-arm-iothub - v2.1.0.IpFilterRule
       name: IpFilterRule
       items: []
-    - uid: azure-arm-iothub.JobResponse
+    - uid: azure-arm-iothub - v2.1.0.JobResponse
       name: JobResponse
       items: []
-    - uid: azure-arm-iothub.JobResponseListResult
+    - uid: azure-arm-iothub - v2.1.0.JobResponseListResult
       name: JobResponseListResult
       items: []
-    - uid: azure-arm-iothub.MatchedRoute
+    - uid: azure-arm-iothub - v2.1.0.MatchedRoute
       name: MatchedRoute
       items: []
-    - uid: azure-arm-iothub.MessagingEndpointProperties
+    - uid: azure-arm-iothub - v2.1.0.MessagingEndpointProperties
       name: MessagingEndpointProperties
       items: []
-    - uid: azure-arm-iothub.Name
+    - uid: azure-arm-iothub - v2.1.0.Name
       name: Name
       items: []
-    - uid: azure-arm-iothub.Operation
+    - uid: azure-arm-iothub - v2.1.0.Operation
       name: Operation
       items: []
-    - uid: azure-arm-iothub.OperationDisplay
+    - uid: azure-arm-iothub - v2.1.0.OperationDisplay
       name: OperationDisplay
       items: []
-    - uid: azure-arm-iothub.OperationInputs
+    - uid: azure-arm-iothub - v2.1.0.OperationInputs
       name: OperationInputs
       items: []
-    - uid: azure-arm-iothub.OperationListResult
+    - uid: azure-arm-iothub - v2.1.0.OperationListResult
       name: OperationListResult
       items: []
-    - uid: azure-arm-iothub.Operations
+    - uid: azure-arm-iothub - v2.1.0.Operations
       name: Operations
       items: []
-    - uid: azure-arm-iothub.OperationsMonitoringProperties
+    - uid: azure-arm-iothub - v2.1.0.OperationsMonitoringProperties
       name: OperationsMonitoringProperties
       items: []
-    - uid: azure-arm-iothub.RegistryStatistics
+    - uid: azure-arm-iothub - v2.1.0.RegistryStatistics
       name: RegistryStatistics
       items: []
-    - uid: azure-arm-iothub.Resource
+    - uid: azure-arm-iothub - v2.1.0.Resource
       name: Resource
       items: []
-    - uid: azure-arm-iothub.ResourceProviderCommon
+    - uid: azure-arm-iothub - v2.1.0.ResourceProviderCommon
       name: ResourceProviderCommon
       items: []
-    - uid: azure-arm-iothub.RouteCompilationError
+    - uid: azure-arm-iothub - v2.1.0.RouteCompilationError
       name: RouteCompilationError
       items: []
-    - uid: azure-arm-iothub.RouteErrorPosition
+    - uid: azure-arm-iothub - v2.1.0.RouteErrorPosition
       name: RouteErrorPosition
       items: []
-    - uid: azure-arm-iothub.RouteErrorRange
+    - uid: azure-arm-iothub - v2.1.0.RouteErrorRange
       name: RouteErrorRange
       items: []
-    - uid: azure-arm-iothub.RouteProperties
+    - uid: azure-arm-iothub - v2.1.0.RouteProperties
       name: RouteProperties
       items: []
-    - uid: azure-arm-iothub.RoutingEndpoints
+    - uid: azure-arm-iothub - v2.1.0.RoutingEndpoints
       name: RoutingEndpoints
       items: []
-    - uid: azure-arm-iothub.RoutingEventHubProperties
+    - uid: azure-arm-iothub - v2.1.0.RoutingEventHubProperties
       name: RoutingEventHubProperties
       items: []
-    - uid: azure-arm-iothub.RoutingMessage
+    - uid: azure-arm-iothub - v2.1.0.RoutingMessage
       name: RoutingMessage
       items: []
-    - uid: azure-arm-iothub.RoutingProperties
+    - uid: azure-arm-iothub - v2.1.0.RoutingProperties
       name: RoutingProperties
       items: []
-    - uid: azure-arm-iothub.RoutingServiceBusQueueEndpointProperties
+    - uid: azure-arm-iothub - v2.1.0.RoutingServiceBusQueueEndpointProperties
       name: RoutingServiceBusQueueEndpointProperties
       items: []
-    - uid: azure-arm-iothub.RoutingServiceBusTopicEndpointProperties
+    - uid: azure-arm-iothub - v2.1.0.RoutingServiceBusTopicEndpointProperties
       name: RoutingServiceBusTopicEndpointProperties
       items: []
-    - uid: azure-arm-iothub.RoutingStorageContainerProperties
+    - uid: azure-arm-iothub - v2.1.0.RoutingStorageContainerProperties
       name: RoutingStorageContainerProperties
       items: []
-    - uid: azure-arm-iothub.SharedAccessSignatureAuthorizationRule
+    - uid: azure-arm-iothub - v2.1.0.SharedAccessSignatureAuthorizationRule
       name: SharedAccessSignatureAuthorizationRule
       items: []
-    - uid: azure-arm-iothub.SharedAccessSignatureAuthorizationRuleListResult
+    - uid: >-
+        azure-arm-iothub -
+        v2.1.0.SharedAccessSignatureAuthorizationRuleListResult
       name: SharedAccessSignatureAuthorizationRuleListResult
       items: []
-    - uid: azure-arm-iothub.StorageEndpointProperties
+    - uid: azure-arm-iothub - v2.1.0.StorageEndpointProperties
       name: StorageEndpointProperties
       items: []
-    - uid: azure-arm-iothub.TagsResource
+    - uid: azure-arm-iothub - v2.1.0.TagsResource
       name: TagsResource
       items: []
-    - uid: azure-arm-iothub.TestAllRoutesInput
+    - uid: azure-arm-iothub - v2.1.0.TestAllRoutesInput
       name: TestAllRoutesInput
       items: []
-    - uid: azure-arm-iothub.TestAllRoutesResult
+    - uid: azure-arm-iothub - v2.1.0.TestAllRoutesResult
       name: TestAllRoutesResult
       items: []
-    - uid: azure-arm-iothub.TestRouteInput
+    - uid: azure-arm-iothub - v2.1.0.TestRouteInput
       name: TestRouteInput
       items: []
-    - uid: azure-arm-iothub.TestRouteResult
+    - uid: azure-arm-iothub - v2.1.0.TestRouteResult
       name: TestRouteResult
       items: []
-    - uid: azure-arm-iothub.TestRouteResultDetails
+    - uid: azure-arm-iothub - v2.1.0.TestRouteResultDetails
       name: TestRouteResultDetails
       items: []
-    - uid: azure-arm-iothub.UserSubscriptionQuota
+    - uid: azure-arm-iothub - v2.1.0.UserSubscriptionQuota
       name: UserSubscriptionQuota
       items: []
-    - uid: azure-arm-iothub.UserSubscriptionQuotaListResult
+    - uid: azure-arm-iothub - v2.1.0.UserSubscriptionQuotaListResult
       name: UserSubscriptionQuotaListResult
       items: []
